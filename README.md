@@ -4,9 +4,9 @@ I'm a software engineer with a strong interest in domain-driven design and funct
 
 ```js
 const Hans = {
-  "name": "Hans Ott",
-  "title": "Co-founder journy.io",
-  "traits": [
+  name: "Hans Ott",
+  title: "Co-founder journy.io",
+  traits: [
     "piano student",
     "avid skier",
     "open source",

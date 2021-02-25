@@ -6,6 +6,8 @@ I'm deeply in love with clean code and I'll do anything to motivate other develo
 
 I'm addicted to learning new things and sharing knowledge. 📚
 
+I worked extensively with PHP in the past but these days I'm spending more time in JavaScript world, using TypeScript, Node.js and React as my main tools. 💚
+
 Ask me about PHP, JavaScript, TypeScript, Node.js, Docker/Kubernetes, React, Elasticsearch, MySQL, GraphQL, open-source packages, parsers or CI/CD... I'm sure we'll have a great conversation.
 
 I'm the co-founder of [journy.io](https://github.com/journy-io).
